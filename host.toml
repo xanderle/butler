@@ -1,0 +1,11 @@
+[zsh.files]
+zshrc = "~/.zshrc"
+[nvim.files]
+"init.lua" = "~/.config/nvim/init.lua"
+"lua/plugins.lua" = "~/.config/nvim/lua/plugins.lua"
+"lua/plugins/nvim-compe.lua" = "~/.config/nvim/lua/plugins/nvim-compe.lua"
+"lua/plugins/nvim-dap.lua" = "~/.config/nvim/lua/plugins/nvim-dap.lua"
+"lua/plugins/nvim-lspconfig.lua" = "~/.config/nvim/lua/plugins/nvim-lspconfig.lua"
+"lua/plugins/telescope.lua" = "~/.config/nvim/lua/plugins/telescope.lua"
+"plugin/compe.vim" = "~/.config/nvim/plugin/compe.vim"
+"plugin/sets.vim" = "~/.config/nvim/plugin/sets.vim"
